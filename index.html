@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Residency permits to Denmark</title>
+  <title>Immigration to Denmark</title>
   <meta charset="utf-8">
-  <meta name="description" content="Residency permits to Denmark">
+  <meta name="description" content="Immigration to Denmark">
   <meta name="author" content="Claus Gaarde Pedersen">
   <meta name="generator" content="slidify" />
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -39,8 +39,8 @@
     <!-- LOGO SLIDE -->
         <slide class="title-slide segue nobackground">
   <hgroup class="auto-fadein">
-    <h1>Residency permits to Denmark</h1>
-    <h2>2006 - 2015</h2>
+    <h1>Immigration to Denmark</h1>
+    <h2>Residency permits 2006 - 2015</h2>
     <p>Claus Gaarde Pedersen<br/></p>
   </hgroup>
   <article></article>  
@@ -53,9 +53,9 @@
     <h2>Forreign immigration to Denmark</h2>
   </hgroup>
   <article data-timings="">
-    <p>In this presentation, we will look at how many people immigrate to Denmark.</p>
+    <p>In this presentation, we will look at the immigration to Denmark.</p>
 
-<p>This will be done by looking at the number of people getting residency permits.</p>
+<p>This will be done by looking at the number of people receiving residency permits.</p>
 
 <p>Hopefully this can provide some basic information that will be usefull when trying to digest the medias attention to this subject.</p>
 
@@ -71,33 +71,33 @@
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="class" id="id" style="background:;">
+<slide class="" id="slide-2" style="background:;">
   <hgroup>
     <h2>Number of residency permits by type</h2>
   </hgroup>
   <article data-timings="">
     <pre><code class="r"># Using the same csv as for the shiny part later.
 # the data is summed by residency permit type. look at shiny part for country details 
-resi &lt;- resi %&gt;% group_by(year, type) %&gt;% summarize(permits=sum(n)) %&gt;%
+resi &lt;- resi %&gt;% group_by(year, type) %&gt;% summarize(permits=sum(permits)) %&gt;%
     select(year, type, permits)
 </code></pre>
 
-<div id = 'chart11d845c847fd8' class = 'rChart nvd3'></div>
+<div id = 'chart3e643077750b' class = 'rChart nvd3'></div>
 
 <script type='text/javascript'>
  $(document).ready(function(){
-      drawchart11d845c847fd8()
+      drawchart3e643077750b()
     });
-    function drawchart11d845c847fd8(){  
+    function drawchart3e643077750b(){  
       var opts = {
- "dom": "chart11d845c847fd8",
+ "dom": "chart3e643077750b",
 "width":    800,
 "height":    400,
 "x": "year",
 "y": "permits",
 "group": "type",
 "type": "multiBarChart",
-"id": "chart11d845c847fd8" 
+"id": "chart3e643077750b" 
 },
         data = [
  {
@@ -459,9 +459,9 @@ resi &lt;- resi %&gt;% group_by(year, type) %&gt;% summarize(permits=sum(n)) %&g
     <h2>Mapping of residency permits by country</h2>
   </hgroup>
   <article data-timings="">
-    <p>rworldmap picture</p>
+    <p>Image from the <a href="https://khlavus.shinyapps.io/ImmigrationDK/">shiny app</a> showing work permits in 2015</p>
 
-<p>link to shiny</p>
+<p><img src="rworldmap.png" alt="width"></p>
 
   </article>
   <!-- Presenter Notes -->
@@ -472,16 +472,15 @@ resi &lt;- resi %&gt;% group_by(year, type) %&gt;% summarize(permits=sum(n)) %&g
     <h2>Ressources</h2>
   </hgroup>
   <article data-timings="">
-    <p>Data downloaded from statistikbanken.dk</p>
-
-<p><a href="http://www.statistikbanken.dk/statbank5a/default.asp?w=1280">http://www.statistikbanken.dk/statbank5a/default.asp?w=1280</a></p>
+    <p>Data downloaded from <a href="http://www.statistikbanken.dk/statbank5a/default.asp?w=1280">statistikbanken.dk</a></p>
 
 <p>Search for statistic VAN66 english version</p>
 
 <p>The data is downloaded as matrix-csv and processed in R</p>
 
-<p>link to exploratory processing here github link
-where the whole source for the slidify and shiny parts also can be found</p>
+<p>Source code for <a href="https://github.com/clausgp/ddpshiny">processing and shiny</a></p>
+
+<p>Source code for <a href="https://github.com/clausgp/ddpslidify">slidify</a> presentation</p>
 
   </article>
   <!-- Presenter Notes -->

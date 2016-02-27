@@ -1,4 +1,4 @@
-country,type,year,n
+country,type,year,permits
 Abu Dhabi,Asylum,2006,0
 Abu Dhabi,Asylum,2007,0
 Abu Dhabi,Asylum,2008,0
@@ -2279,66 +2279,66 @@ Cape Verde,Work,2012,0
 Cape Verde,Work,2013,0
 Cape Verde,Work,2014,0
 Cape Verde,Work,2015,0
-Central African Republic,Asylum,2006,0
-Central African Republic,Asylum,2007,0
-Central African Republic,Asylum,2008,0
-Central African Republic,Asylum,2009,4
-Central African Republic,Asylum,2010,0
-Central African Republic,Asylum,2011,0
-Central African Republic,Asylum,2012,0
-Central African Republic,Asylum,2013,0
-Central African Republic,Asylum,2014,12
-Central African Republic,Asylum,2015,5
-Central African Republic,EU,2006,0
-Central African Republic,EU,2007,0
-Central African Republic,EU,2008,0
-Central African Republic,EU,2009,0
-Central African Republic,EU,2010,0
-Central African Republic,EU,2011,0
-Central African Republic,EU,2012,0
-Central African Republic,EU,2013,0
-Central African Republic,EU,2014,1
-Central African Republic,EU,2015,1
-Central African Republic,Family,2006,0
-Central African Republic,Family,2007,0
-Central African Republic,Family,2008,0
-Central African Republic,Family,2009,0
-Central African Republic,Family,2010,0
-Central African Republic,Family,2011,0
-Central African Republic,Family,2012,0
-Central African Republic,Family,2013,0
-Central African Republic,Family,2014,0
-Central African Republic,Family,2015,0
-Central African Republic,Other,2006,0
-Central African Republic,Other,2007,0
-Central African Republic,Other,2008,0
-Central African Republic,Other,2009,0
-Central African Republic,Other,2010,0
-Central African Republic,Other,2011,0
-Central African Republic,Other,2012,0
-Central African Republic,Other,2013,0
-Central African Republic,Other,2014,0
-Central African Republic,Other,2015,0
-Central African Republic,Study,2006,0
-Central African Republic,Study,2007,0
-Central African Republic,Study,2008,0
-Central African Republic,Study,2009,0
-Central African Republic,Study,2010,0
-Central African Republic,Study,2011,0
-Central African Republic,Study,2012,0
-Central African Republic,Study,2013,0
-Central African Republic,Study,2014,0
-Central African Republic,Study,2015,0
-Central African Republic,Work,2006,0
-Central African Republic,Work,2007,0
-Central African Republic,Work,2008,0
-Central African Republic,Work,2009,0
-Central African Republic,Work,2010,0
-Central African Republic,Work,2011,0
-Central African Republic,Work,2012,0
-Central African Republic,Work,2013,0
-Central African Republic,Work,2014,0
-Central African Republic,Work,2015,0
+Central African Rep.,Asylum,2006,0
+Central African Rep.,Asylum,2007,0
+Central African Rep.,Asylum,2008,0
+Central African Rep.,Asylum,2009,4
+Central African Rep.,Asylum,2010,0
+Central African Rep.,Asylum,2011,0
+Central African Rep.,Asylum,2012,0
+Central African Rep.,Asylum,2013,0
+Central African Rep.,Asylum,2014,12
+Central African Rep.,Asylum,2015,5
+Central African Rep.,EU,2006,0
+Central African Rep.,EU,2007,0
+Central African Rep.,EU,2008,0
+Central African Rep.,EU,2009,0
+Central African Rep.,EU,2010,0
+Central African Rep.,EU,2011,0
+Central African Rep.,EU,2012,0
+Central African Rep.,EU,2013,0
+Central African Rep.,EU,2014,1
+Central African Rep.,EU,2015,1
+Central African Rep.,Family,2006,0
+Central African Rep.,Family,2007,0
+Central African Rep.,Family,2008,0
+Central African Rep.,Family,2009,0
+Central African Rep.,Family,2010,0
+Central African Rep.,Family,2011,0
+Central African Rep.,Family,2012,0
+Central African Rep.,Family,2013,0
+Central African Rep.,Family,2014,0
+Central African Rep.,Family,2015,0
+Central African Rep.,Other,2006,0
+Central African Rep.,Other,2007,0
+Central African Rep.,Other,2008,0
+Central African Rep.,Other,2009,0
+Central African Rep.,Other,2010,0
+Central African Rep.,Other,2011,0
+Central African Rep.,Other,2012,0
+Central African Rep.,Other,2013,0
+Central African Rep.,Other,2014,0
+Central African Rep.,Other,2015,0
+Central African Rep.,Study,2006,0
+Central African Rep.,Study,2007,0
+Central African Rep.,Study,2008,0
+Central African Rep.,Study,2009,0
+Central African Rep.,Study,2010,0
+Central African Rep.,Study,2011,0
+Central African Rep.,Study,2012,0
+Central African Rep.,Study,2013,0
+Central African Rep.,Study,2014,0
+Central African Rep.,Study,2015,0
+Central African Rep.,Work,2006,0
+Central African Rep.,Work,2007,0
+Central African Rep.,Work,2008,0
+Central African Rep.,Work,2009,0
+Central African Rep.,Work,2010,0
+Central African Rep.,Work,2011,0
+Central African Rep.,Work,2012,0
+Central African Rep.,Work,2013,0
+Central African Rep.,Work,2014,0
+Central African Rep.,Work,2015,0
 Chad,Asylum,2006,1
 Chad,Asylum,2007,0
 Chad,Asylum,2008,1
@@ -2639,126 +2639,126 @@ Comoros,Work,2012,0
 Comoros,Work,2013,0
 Comoros,Work,2014,0
 Comoros,Work,2015,0
-"Congo, Democratic Republic",Asylum,2006,241
-"Congo, Democratic Republic",Asylum,2007,184
-"Congo, Democratic Republic",Asylum,2008,126
-"Congo, Democratic Republic",Asylum,2009,152
-"Congo, Democratic Republic",Asylum,2010,110
-"Congo, Democratic Republic",Asylum,2011,159
-"Congo, Democratic Republic",Asylum,2012,16
-"Congo, Democratic Republic",Asylum,2013,161
-"Congo, Democratic Republic",Asylum,2014,48
-"Congo, Democratic Republic",Asylum,2015,260
-"Congo, Democratic Republic",EU,2006,0
-"Congo, Democratic Republic",EU,2007,0
-"Congo, Democratic Republic",EU,2008,0
-"Congo, Democratic Republic",EU,2009,0
-"Congo, Democratic Republic",EU,2010,0
-"Congo, Democratic Republic",EU,2011,2
-"Congo, Democratic Republic",EU,2012,1
-"Congo, Democratic Republic",EU,2013,0
-"Congo, Democratic Republic",EU,2014,1
-"Congo, Democratic Republic",EU,2015,2
-"Congo, Democratic Republic",Family,2006,9
-"Congo, Democratic Republic",Family,2007,15
-"Congo, Democratic Republic",Family,2008,11
-"Congo, Democratic Republic",Family,2009,27
-"Congo, Democratic Republic",Family,2010,22
-"Congo, Democratic Republic",Family,2011,18
-"Congo, Democratic Republic",Family,2012,16
-"Congo, Democratic Republic",Family,2013,16
-"Congo, Democratic Republic",Family,2014,36
-"Congo, Democratic Republic",Family,2015,15
-"Congo, Democratic Republic",Other,2006,2
-"Congo, Democratic Republic",Other,2007,4
-"Congo, Democratic Republic",Other,2008,6
-"Congo, Democratic Republic",Other,2009,7
-"Congo, Democratic Republic",Other,2010,2
-"Congo, Democratic Republic",Other,2011,1
-"Congo, Democratic Republic",Other,2012,0
-"Congo, Democratic Republic",Other,2013,3
-"Congo, Democratic Republic",Other,2014,1
-"Congo, Democratic Republic",Other,2015,2
-"Congo, Democratic Republic",Study,2006,0
-"Congo, Democratic Republic",Study,2007,0
-"Congo, Democratic Republic",Study,2008,0
-"Congo, Democratic Republic",Study,2009,1
-"Congo, Democratic Republic",Study,2010,1
-"Congo, Democratic Republic",Study,2011,0
-"Congo, Democratic Republic",Study,2012,1
-"Congo, Democratic Republic",Study,2013,0
-"Congo, Democratic Republic",Study,2014,1
-"Congo, Democratic Republic",Study,2015,1
-"Congo, Democratic Republic",Work,2006,0
-"Congo, Democratic Republic",Work,2007,0
-"Congo, Democratic Republic",Work,2008,0
-"Congo, Democratic Republic",Work,2009,0
-"Congo, Democratic Republic",Work,2010,0
-"Congo, Democratic Republic",Work,2011,0
-"Congo, Democratic Republic",Work,2012,0
-"Congo, Democratic Republic",Work,2013,1
-"Congo, Democratic Republic",Work,2014,0
-"Congo, Democratic Republic",Work,2015,1
-"Congo, Republic",Asylum,2006,0
-"Congo, Republic",Asylum,2007,0
-"Congo, Republic",Asylum,2008,0
-"Congo, Republic",Asylum,2009,0
-"Congo, Republic",Asylum,2010,0
-"Congo, Republic",Asylum,2011,16
-"Congo, Republic",Asylum,2012,1
-"Congo, Republic",Asylum,2013,0
-"Congo, Republic",Asylum,2014,0
-"Congo, Republic",Asylum,2015,0
-"Congo, Republic",EU,2006,0
-"Congo, Republic",EU,2007,0
-"Congo, Republic",EU,2008,0
-"Congo, Republic",EU,2009,0
-"Congo, Republic",EU,2010,0
-"Congo, Republic",EU,2011,1
-"Congo, Republic",EU,2012,0
-"Congo, Republic",EU,2013,0
-"Congo, Republic",EU,2014,0
-"Congo, Republic",EU,2015,0
-"Congo, Republic",Family,2006,9
-"Congo, Republic",Family,2007,4
-"Congo, Republic",Family,2008,4
-"Congo, Republic",Family,2009,1
-"Congo, Republic",Family,2010,0
-"Congo, Republic",Family,2011,1
-"Congo, Republic",Family,2012,6
-"Congo, Republic",Family,2013,0
-"Congo, Republic",Family,2014,1
-"Congo, Republic",Family,2015,1
-"Congo, Republic",Other,2006,1
-"Congo, Republic",Other,2007,0
-"Congo, Republic",Other,2008,0
-"Congo, Republic",Other,2009,0
-"Congo, Republic",Other,2010,0
-"Congo, Republic",Other,2011,0
-"Congo, Republic",Other,2012,0
-"Congo, Republic",Other,2013,0
-"Congo, Republic",Other,2014,0
-"Congo, Republic",Other,2015,0
-"Congo, Republic",Study,2006,1
-"Congo, Republic",Study,2007,0
-"Congo, Republic",Study,2008,1
-"Congo, Republic",Study,2009,3
-"Congo, Republic",Study,2010,0
-"Congo, Republic",Study,2011,0
-"Congo, Republic",Study,2012,4
-"Congo, Republic",Study,2013,1
-"Congo, Republic",Study,2014,0
-"Congo, Republic",Study,2015,0
-"Congo, Republic",Work,2006,0
-"Congo, Republic",Work,2007,3
-"Congo, Republic",Work,2008,5
-"Congo, Republic",Work,2009,1
-"Congo, Republic",Work,2010,1
-"Congo, Republic",Work,2011,1
-"Congo, Republic",Work,2012,0
-"Congo, Republic",Work,2013,0
-"Congo, Republic",Work,2014,0
-"Congo, Republic",Work,2015,0
+Congo (Kinshasa),Asylum,2006,241
+Congo (Kinshasa),Asylum,2007,184
+Congo (Kinshasa),Asylum,2008,126
+Congo (Kinshasa),Asylum,2009,152
+Congo (Kinshasa),Asylum,2010,110
+Congo (Kinshasa),Asylum,2011,159
+Congo (Kinshasa),Asylum,2012,16
+Congo (Kinshasa),Asylum,2013,161
+Congo (Kinshasa),Asylum,2014,48
+Congo (Kinshasa),Asylum,2015,260
+Congo (Kinshasa),EU,2006,0
+Congo (Kinshasa),EU,2007,0
+Congo (Kinshasa),EU,2008,0
+Congo (Kinshasa),EU,2009,0
+Congo (Kinshasa),EU,2010,0
+Congo (Kinshasa),EU,2011,2
+Congo (Kinshasa),EU,2012,1
+Congo (Kinshasa),EU,2013,0
+Congo (Kinshasa),EU,2014,1
+Congo (Kinshasa),EU,2015,2
+Congo (Kinshasa),Family,2006,9
+Congo (Kinshasa),Family,2007,15
+Congo (Kinshasa),Family,2008,11
+Congo (Kinshasa),Family,2009,27
+Congo (Kinshasa),Family,2010,22
+Congo (Kinshasa),Family,2011,18
+Congo (Kinshasa),Family,2012,16
+Congo (Kinshasa),Family,2013,16
+Congo (Kinshasa),Family,2014,36
+Congo (Kinshasa),Family,2015,15
+Congo (Kinshasa),Other,2006,2
+Congo (Kinshasa),Other,2007,4
+Congo (Kinshasa),Other,2008,6
+Congo (Kinshasa),Other,2009,7
+Congo (Kinshasa),Other,2010,2
+Congo (Kinshasa),Other,2011,1
+Congo (Kinshasa),Other,2012,0
+Congo (Kinshasa),Other,2013,3
+Congo (Kinshasa),Other,2014,1
+Congo (Kinshasa),Other,2015,2
+Congo (Kinshasa),Study,2006,0
+Congo (Kinshasa),Study,2007,0
+Congo (Kinshasa),Study,2008,0
+Congo (Kinshasa),Study,2009,1
+Congo (Kinshasa),Study,2010,1
+Congo (Kinshasa),Study,2011,0
+Congo (Kinshasa),Study,2012,1
+Congo (Kinshasa),Study,2013,0
+Congo (Kinshasa),Study,2014,1
+Congo (Kinshasa),Study,2015,1
+Congo (Kinshasa),Work,2006,0
+Congo (Kinshasa),Work,2007,0
+Congo (Kinshasa),Work,2008,0
+Congo (Kinshasa),Work,2009,0
+Congo (Kinshasa),Work,2010,0
+Congo (Kinshasa),Work,2011,0
+Congo (Kinshasa),Work,2012,0
+Congo (Kinshasa),Work,2013,1
+Congo (Kinshasa),Work,2014,0
+Congo (Kinshasa),Work,2015,1
+Congo (Brazzaville),Asylum,2006,0
+Congo (Brazzaville),Asylum,2007,0
+Congo (Brazzaville),Asylum,2008,0
+Congo (Brazzaville),Asylum,2009,0
+Congo (Brazzaville),Asylum,2010,0
+Congo (Brazzaville),Asylum,2011,16
+Congo (Brazzaville),Asylum,2012,1
+Congo (Brazzaville),Asylum,2013,0
+Congo (Brazzaville),Asylum,2014,0
+Congo (Brazzaville),Asylum,2015,0
+Congo (Brazzaville),EU,2006,0
+Congo (Brazzaville),EU,2007,0
+Congo (Brazzaville),EU,2008,0
+Congo (Brazzaville),EU,2009,0
+Congo (Brazzaville),EU,2010,0
+Congo (Brazzaville),EU,2011,1
+Congo (Brazzaville),EU,2012,0
+Congo (Brazzaville),EU,2013,0
+Congo (Brazzaville),EU,2014,0
+Congo (Brazzaville),EU,2015,0
+Congo (Brazzaville),Family,2006,9
+Congo (Brazzaville),Family,2007,4
+Congo (Brazzaville),Family,2008,4
+Congo (Brazzaville),Family,2009,1
+Congo (Brazzaville),Family,2010,0
+Congo (Brazzaville),Family,2011,1
+Congo (Brazzaville),Family,2012,6
+Congo (Brazzaville),Family,2013,0
+Congo (Brazzaville),Family,2014,1
+Congo (Brazzaville),Family,2015,1
+Congo (Brazzaville),Other,2006,1
+Congo (Brazzaville),Other,2007,0
+Congo (Brazzaville),Other,2008,0
+Congo (Brazzaville),Other,2009,0
+Congo (Brazzaville),Other,2010,0
+Congo (Brazzaville),Other,2011,0
+Congo (Brazzaville),Other,2012,0
+Congo (Brazzaville),Other,2013,0
+Congo (Brazzaville),Other,2014,0
+Congo (Brazzaville),Other,2015,0
+Congo (Brazzaville),Study,2006,1
+Congo (Brazzaville),Study,2007,0
+Congo (Brazzaville),Study,2008,1
+Congo (Brazzaville),Study,2009,3
+Congo (Brazzaville),Study,2010,0
+Congo (Brazzaville),Study,2011,0
+Congo (Brazzaville),Study,2012,4
+Congo (Brazzaville),Study,2013,1
+Congo (Brazzaville),Study,2014,0
+Congo (Brazzaville),Study,2015,0
+Congo (Brazzaville),Work,2006,0
+Congo (Brazzaville),Work,2007,3
+Congo (Brazzaville),Work,2008,5
+Congo (Brazzaville),Work,2009,1
+Congo (Brazzaville),Work,2010,1
+Congo (Brazzaville),Work,2011,1
+Congo (Brazzaville),Work,2012,0
+Congo (Brazzaville),Work,2013,0
+Congo (Brazzaville),Work,2014,0
+Congo (Brazzaville),Work,2015,0
 Cook Islands,Asylum,2006,0
 Cook Islands,Asylum,2007,0
 Cook Islands,Asylum,2008,0
@@ -4559,66 +4559,66 @@ Gabon,Work,2012,0
 Gabon,Work,2013,0
 Gabon,Work,2014,1
 Gabon,Work,2015,0
-"Gambia, The",Asylum,2006,0
-"Gambia, The",Asylum,2007,0
-"Gambia, The",Asylum,2008,0
-"Gambia, The",Asylum,2009,0
-"Gambia, The",Asylum,2010,0
-"Gambia, The",Asylum,2011,1
-"Gambia, The",Asylum,2012,0
-"Gambia, The",Asylum,2013,2
-"Gambia, The",Asylum,2014,1
-"Gambia, The",Asylum,2015,0
-"Gambia, The",EU,2006,0
-"Gambia, The",EU,2007,1
-"Gambia, The",EU,2008,0
-"Gambia, The",EU,2009,2
-"Gambia, The",EU,2010,1
-"Gambia, The",EU,2011,0
-"Gambia, The",EU,2012,0
-"Gambia, The",EU,2013,0
-"Gambia, The",EU,2014,0
-"Gambia, The",EU,2015,2
-"Gambia, The",Family,2006,13
-"Gambia, The",Family,2007,22
-"Gambia, The",Family,2008,18
-"Gambia, The",Family,2009,20
-"Gambia, The",Family,2010,25
-"Gambia, The",Family,2011,13
-"Gambia, The",Family,2012,13
-"Gambia, The",Family,2013,21
-"Gambia, The",Family,2014,24
-"Gambia, The",Family,2015,22
-"Gambia, The",Other,2006,0
-"Gambia, The",Other,2007,1
-"Gambia, The",Other,2008,0
-"Gambia, The",Other,2009,0
-"Gambia, The",Other,2010,0
-"Gambia, The",Other,2011,1
-"Gambia, The",Other,2012,0
-"Gambia, The",Other,2013,0
-"Gambia, The",Other,2014,0
-"Gambia, The",Other,2015,0
-"Gambia, The",Study,2006,3
-"Gambia, The",Study,2007,2
-"Gambia, The",Study,2008,1
-"Gambia, The",Study,2009,2
-"Gambia, The",Study,2010,9
-"Gambia, The",Study,2011,2
-"Gambia, The",Study,2012,1
-"Gambia, The",Study,2013,0
-"Gambia, The",Study,2014,3
-"Gambia, The",Study,2015,4
-"Gambia, The",Work,2006,1
-"Gambia, The",Work,2007,1
-"Gambia, The",Work,2008,3
-"Gambia, The",Work,2009,3
-"Gambia, The",Work,2010,3
-"Gambia, The",Work,2011,1
-"Gambia, The",Work,2012,1
-"Gambia, The",Work,2013,0
-"Gambia, The",Work,2014,1
-"Gambia, The",Work,2015,1
+Gambia,Asylum,2006,0
+Gambia,Asylum,2007,0
+Gambia,Asylum,2008,0
+Gambia,Asylum,2009,0
+Gambia,Asylum,2010,0
+Gambia,Asylum,2011,1
+Gambia,Asylum,2012,0
+Gambia,Asylum,2013,2
+Gambia,Asylum,2014,1
+Gambia,Asylum,2015,0
+Gambia,EU,2006,0
+Gambia,EU,2007,1
+Gambia,EU,2008,0
+Gambia,EU,2009,2
+Gambia,EU,2010,1
+Gambia,EU,2011,0
+Gambia,EU,2012,0
+Gambia,EU,2013,0
+Gambia,EU,2014,0
+Gambia,EU,2015,2
+Gambia,Family,2006,13
+Gambia,Family,2007,22
+Gambia,Family,2008,18
+Gambia,Family,2009,20
+Gambia,Family,2010,25
+Gambia,Family,2011,13
+Gambia,Family,2012,13
+Gambia,Family,2013,21
+Gambia,Family,2014,24
+Gambia,Family,2015,22
+Gambia,Other,2006,0
+Gambia,Other,2007,1
+Gambia,Other,2008,0
+Gambia,Other,2009,0
+Gambia,Other,2010,0
+Gambia,Other,2011,1
+Gambia,Other,2012,0
+Gambia,Other,2013,0
+Gambia,Other,2014,0
+Gambia,Other,2015,0
+Gambia,Study,2006,3
+Gambia,Study,2007,2
+Gambia,Study,2008,1
+Gambia,Study,2009,2
+Gambia,Study,2010,9
+Gambia,Study,2011,2
+Gambia,Study,2012,1
+Gambia,Study,2013,0
+Gambia,Study,2014,3
+Gambia,Study,2015,4
+Gambia,Work,2006,1
+Gambia,Work,2007,1
+Gambia,Work,2008,3
+Gambia,Work,2009,3
+Gambia,Work,2010,3
+Gambia,Work,2011,1
+Gambia,Work,2012,1
+Gambia,Work,2013,0
+Gambia,Work,2014,1
+Gambia,Work,2015,1
 GDR,Asylum,2006,0
 GDR,Asylum,2007,0
 GDR,Asylum,2008,0
@@ -5159,66 +5159,66 @@ Guinea,Work,2012,0
 Guinea,Work,2013,0
 Guinea,Work,2014,0
 Guinea,Work,2015,0
-Guinea-Bissau,Asylum,2006,0
-Guinea-Bissau,Asylum,2007,0
-Guinea-Bissau,Asylum,2008,0
-Guinea-Bissau,Asylum,2009,0
-Guinea-Bissau,Asylum,2010,0
-Guinea-Bissau,Asylum,2011,0
-Guinea-Bissau,Asylum,2012,0
-Guinea-Bissau,Asylum,2013,3
-Guinea-Bissau,Asylum,2014,0
-Guinea-Bissau,Asylum,2015,0
-Guinea-Bissau,EU,2006,2
-Guinea-Bissau,EU,2007,0
-Guinea-Bissau,EU,2008,2
-Guinea-Bissau,EU,2009,6
-Guinea-Bissau,EU,2010,2
-Guinea-Bissau,EU,2011,2
-Guinea-Bissau,EU,2012,1
-Guinea-Bissau,EU,2013,3
-Guinea-Bissau,EU,2014,1
-Guinea-Bissau,EU,2015,0
-Guinea-Bissau,Family,2006,1
-Guinea-Bissau,Family,2007,0
-Guinea-Bissau,Family,2008,0
-Guinea-Bissau,Family,2009,1
-Guinea-Bissau,Family,2010,3
-Guinea-Bissau,Family,2011,0
-Guinea-Bissau,Family,2012,2
-Guinea-Bissau,Family,2013,1
-Guinea-Bissau,Family,2014,2
-Guinea-Bissau,Family,2015,3
-Guinea-Bissau,Other,2006,0
-Guinea-Bissau,Other,2007,0
-Guinea-Bissau,Other,2008,0
-Guinea-Bissau,Other,2009,0
-Guinea-Bissau,Other,2010,0
-Guinea-Bissau,Other,2011,0
-Guinea-Bissau,Other,2012,0
-Guinea-Bissau,Other,2013,0
-Guinea-Bissau,Other,2014,0
-Guinea-Bissau,Other,2015,0
-Guinea-Bissau,Study,2006,0
-Guinea-Bissau,Study,2007,0
-Guinea-Bissau,Study,2008,2
-Guinea-Bissau,Study,2009,4
-Guinea-Bissau,Study,2010,5
-Guinea-Bissau,Study,2011,0
-Guinea-Bissau,Study,2012,0
-Guinea-Bissau,Study,2013,1
-Guinea-Bissau,Study,2014,0
-Guinea-Bissau,Study,2015,0
-Guinea-Bissau,Work,2006,0
-Guinea-Bissau,Work,2007,0
-Guinea-Bissau,Work,2008,0
-Guinea-Bissau,Work,2009,0
-Guinea-Bissau,Work,2010,0
-Guinea-Bissau,Work,2011,0
-Guinea-Bissau,Work,2012,0
-Guinea-Bissau,Work,2013,0
-Guinea-Bissau,Work,2014,0
-Guinea-Bissau,Work,2015,0
+Guinea Bissau,Asylum,2006,0
+Guinea Bissau,Asylum,2007,0
+Guinea Bissau,Asylum,2008,0
+Guinea Bissau,Asylum,2009,0
+Guinea Bissau,Asylum,2010,0
+Guinea Bissau,Asylum,2011,0
+Guinea Bissau,Asylum,2012,0
+Guinea Bissau,Asylum,2013,3
+Guinea Bissau,Asylum,2014,0
+Guinea Bissau,Asylum,2015,0
+Guinea Bissau,EU,2006,2
+Guinea Bissau,EU,2007,0
+Guinea Bissau,EU,2008,2
+Guinea Bissau,EU,2009,6
+Guinea Bissau,EU,2010,2
+Guinea Bissau,EU,2011,2
+Guinea Bissau,EU,2012,1
+Guinea Bissau,EU,2013,3
+Guinea Bissau,EU,2014,1
+Guinea Bissau,EU,2015,0
+Guinea Bissau,Family,2006,1
+Guinea Bissau,Family,2007,0
+Guinea Bissau,Family,2008,0
+Guinea Bissau,Family,2009,1
+Guinea Bissau,Family,2010,3
+Guinea Bissau,Family,2011,0
+Guinea Bissau,Family,2012,2
+Guinea Bissau,Family,2013,1
+Guinea Bissau,Family,2014,2
+Guinea Bissau,Family,2015,3
+Guinea Bissau,Other,2006,0
+Guinea Bissau,Other,2007,0
+Guinea Bissau,Other,2008,0
+Guinea Bissau,Other,2009,0
+Guinea Bissau,Other,2010,0
+Guinea Bissau,Other,2011,0
+Guinea Bissau,Other,2012,0
+Guinea Bissau,Other,2013,0
+Guinea Bissau,Other,2014,0
+Guinea Bissau,Other,2015,0
+Guinea Bissau,Study,2006,0
+Guinea Bissau,Study,2007,0
+Guinea Bissau,Study,2008,2
+Guinea Bissau,Study,2009,4
+Guinea Bissau,Study,2010,5
+Guinea Bissau,Study,2011,0
+Guinea Bissau,Study,2012,0
+Guinea Bissau,Study,2013,1
+Guinea Bissau,Study,2014,0
+Guinea Bissau,Study,2015,0
+Guinea Bissau,Work,2006,0
+Guinea Bissau,Work,2007,0
+Guinea Bissau,Work,2008,0
+Guinea Bissau,Work,2009,0
+Guinea Bissau,Work,2010,0
+Guinea Bissau,Work,2011,0
+Guinea Bissau,Work,2012,0
+Guinea Bissau,Work,2013,0
+Guinea Bissau,Work,2014,0
+Guinea Bissau,Work,2015,0
 Guyana,Asylum,2006,0
 Guyana,Asylum,2007,0
 Guyana,Asylum,2008,0
@@ -10919,66 +10919,66 @@ Serbia,Work,2012,73
 Serbia,Work,2013,105
 Serbia,Work,2014,94
 Serbia,Work,2015,103
-Serbia and Montenegro,Asylum,2006,135
-Serbia and Montenegro,Asylum,2007,0
-Serbia and Montenegro,Asylum,2008,0
-Serbia and Montenegro,Asylum,2009,0
-Serbia and Montenegro,Asylum,2010,0
-Serbia and Montenegro,Asylum,2011,0
-Serbia and Montenegro,Asylum,2012,0
-Serbia and Montenegro,Asylum,2013,0
-Serbia and Montenegro,Asylum,2014,0
-Serbia and Montenegro,Asylum,2015,0
-Serbia and Montenegro,EU,2006,6
-Serbia and Montenegro,EU,2007,0
-Serbia and Montenegro,EU,2008,0
-Serbia and Montenegro,EU,2009,0
-Serbia and Montenegro,EU,2010,0
-Serbia and Montenegro,EU,2011,0
-Serbia and Montenegro,EU,2012,0
-Serbia and Montenegro,EU,2013,0
-Serbia and Montenegro,EU,2014,0
-Serbia and Montenegro,EU,2015,0
-Serbia and Montenegro,Family,2006,76
-Serbia and Montenegro,Family,2007,0
-Serbia and Montenegro,Family,2008,0
-Serbia and Montenegro,Family,2009,0
-Serbia and Montenegro,Family,2010,0
-Serbia and Montenegro,Family,2011,0
-Serbia and Montenegro,Family,2012,0
-Serbia and Montenegro,Family,2013,1
-Serbia and Montenegro,Family,2014,0
-Serbia and Montenegro,Family,2015,0
-Serbia and Montenegro,Other,2006,2
-Serbia and Montenegro,Other,2007,0
-Serbia and Montenegro,Other,2008,0
-Serbia and Montenegro,Other,2009,0
-Serbia and Montenegro,Other,2010,0
-Serbia and Montenegro,Other,2011,0
-Serbia and Montenegro,Other,2012,0
-Serbia and Montenegro,Other,2013,0
-Serbia and Montenegro,Other,2014,0
-Serbia and Montenegro,Other,2015,0
-Serbia and Montenegro,Study,2006,28
-Serbia and Montenegro,Study,2007,0
-Serbia and Montenegro,Study,2008,0
-Serbia and Montenegro,Study,2009,0
-Serbia and Montenegro,Study,2010,0
-Serbia and Montenegro,Study,2011,0
-Serbia and Montenegro,Study,2012,0
-Serbia and Montenegro,Study,2013,0
-Serbia and Montenegro,Study,2014,0
-Serbia and Montenegro,Study,2015,0
-Serbia and Montenegro,Work,2006,74
-Serbia and Montenegro,Work,2007,0
-Serbia and Montenegro,Work,2008,0
-Serbia and Montenegro,Work,2009,0
-Serbia and Montenegro,Work,2010,0
-Serbia and Montenegro,Work,2011,0
-Serbia and Montenegro,Work,2012,0
-Serbia and Montenegro,Work,2013,0
-Serbia and Montenegro,Work,2014,0
-Serbia and Montenegro,Work,2015,0
+Serbia,Asylum,2006,135
+Serbia,Asylum,2007,0
+Serbia,Asylum,2008,0
+Serbia,Asylum,2009,0
+Serbia,Asylum,2010,0
+Serbia,Asylum,2011,0
+Serbia,Asylum,2012,0
+Serbia,Asylum,2013,0
+Serbia,Asylum,2014,0
+Serbia,Asylum,2015,0
+Serbia,EU,2006,6
+Serbia,EU,2007,0
+Serbia,EU,2008,0
+Serbia,EU,2009,0
+Serbia,EU,2010,0
+Serbia,EU,2011,0
+Serbia,EU,2012,0
+Serbia,EU,2013,0
+Serbia,EU,2014,0
+Serbia,EU,2015,0
+Serbia,Family,2006,76
+Serbia,Family,2007,0
+Serbia,Family,2008,0
+Serbia,Family,2009,0
+Serbia,Family,2010,0
+Serbia,Family,2011,0
+Serbia,Family,2012,0
+Serbia,Family,2013,1
+Serbia,Family,2014,0
+Serbia,Family,2015,0
+Serbia,Other,2006,2
+Serbia,Other,2007,0
+Serbia,Other,2008,0
+Serbia,Other,2009,0
+Serbia,Other,2010,0
+Serbia,Other,2011,0
+Serbia,Other,2012,0
+Serbia,Other,2013,0
+Serbia,Other,2014,0
+Serbia,Other,2015,0
+Serbia,Study,2006,28
+Serbia,Study,2007,0
+Serbia,Study,2008,0
+Serbia,Study,2009,0
+Serbia,Study,2010,0
+Serbia,Study,2011,0
+Serbia,Study,2012,0
+Serbia,Study,2013,0
+Serbia,Study,2014,0
+Serbia,Study,2015,0
+Serbia,Work,2006,74
+Serbia,Work,2007,0
+Serbia,Work,2008,0
+Serbia,Work,2009,0
+Serbia,Work,2010,0
+Serbia,Work,2011,0
+Serbia,Work,2012,0
+Serbia,Work,2013,0
+Serbia,Work,2014,0
+Serbia,Work,2015,0
 Seychelles,Asylum,2006,0
 Seychelles,Asylum,2007,0
 Seychelles,Asylum,2008,0
@@ -13439,66 +13439,66 @@ Uruguay,Work,2012,12
 Uruguay,Work,2013,3
 Uruguay,Work,2014,1
 Uruguay,Work,2015,0
-USA,Asylum,2006,0
-USA,Asylum,2007,0
-USA,Asylum,2008,0
-USA,Asylum,2009,0
-USA,Asylum,2010,0
-USA,Asylum,2011,0
-USA,Asylum,2012,0
-USA,Asylum,2013,0
-USA,Asylum,2014,0
-USA,Asylum,2015,1
-USA,EU,2006,16
-USA,EU,2007,10
-USA,EU,2008,22
-USA,EU,2009,44
-USA,EU,2010,38
-USA,EU,2011,51
-USA,EU,2012,48
-USA,EU,2013,48
-USA,EU,2014,62
-USA,EU,2015,67
-USA,Family,2006,167
-USA,Family,2007,204
-USA,Family,2008,183
-USA,Family,2009,196
-USA,Family,2010,207
-USA,Family,2011,107
-USA,Family,2012,151
-USA,Family,2013,178
-USA,Family,2014,159
-USA,Family,2015,177
-USA,Other,2006,37
-USA,Other,2007,25
-USA,Other,2008,25
-USA,Other,2009,15
-USA,Other,2010,17
-USA,Other,2011,14
-USA,Other,2012,18
-USA,Other,2013,12
-USA,Other,2014,15
-USA,Other,2015,9
-USA,Study,2006,1377
-USA,Study,2007,1545
-USA,Study,2008,1790
-USA,Study,2009,1905
-USA,Study,2010,2053
-USA,Study,2011,1684
-USA,Study,2012,2319
-USA,Study,2013,2888
-USA,Study,2014,2915
-USA,Study,2015,3178
-USA,Work,2006,532
-USA,Work,2007,602
-USA,Work,2008,718
-USA,Work,2009,660
-USA,Work,2010,679
-USA,Work,2011,741
-USA,Work,2012,746
-USA,Work,2013,785
-USA,Work,2014,923
-USA,Work,2015,882
+United States,Asylum,2006,0
+United States,Asylum,2007,0
+United States,Asylum,2008,0
+United States,Asylum,2009,0
+United States,Asylum,2010,0
+United States,Asylum,2011,0
+United States,Asylum,2012,0
+United States,Asylum,2013,0
+United States,Asylum,2014,0
+United States,Asylum,2015,1
+United States,EU,2006,16
+United States,EU,2007,10
+United States,EU,2008,22
+United States,EU,2009,44
+United States,EU,2010,38
+United States,EU,2011,51
+United States,EU,2012,48
+United States,EU,2013,48
+United States,EU,2014,62
+United States,EU,2015,67
+United States,Family,2006,167
+United States,Family,2007,204
+United States,Family,2008,183
+United States,Family,2009,196
+United States,Family,2010,207
+United States,Family,2011,107
+United States,Family,2012,151
+United States,Family,2013,178
+United States,Family,2014,159
+United States,Family,2015,177
+United States,Other,2006,37
+United States,Other,2007,25
+United States,Other,2008,25
+United States,Other,2009,15
+United States,Other,2010,17
+United States,Other,2011,14
+United States,Other,2012,18
+United States,Other,2013,12
+United States,Other,2014,15
+United States,Other,2015,9
+United States,Study,2006,1377
+United States,Study,2007,1545
+United States,Study,2008,1790
+United States,Study,2009,1905
+United States,Study,2010,2053
+United States,Study,2011,1684
+United States,Study,2012,2319
+United States,Study,2013,2888
+United States,Study,2014,2915
+United States,Study,2015,3178
+United States,Work,2006,532
+United States,Work,2007,602
+United States,Work,2008,718
+United States,Work,2009,660
+United States,Work,2010,679
+United States,Work,2011,741
+United States,Work,2012,746
+United States,Work,2013,785
+United States,Work,2014,923
+United States,Work,2015,882
 Uzbekistan,Asylum,2006,13
 Uzbekistan,Asylum,2007,7
 Uzbekistan,Asylum,2008,13

@@ -1,6 +1,6 @@
 ---
-title       : Residency permits to Denmark
-subtitle    : 2006 - 2015
+title       : Immigration to Denmark
+subtitle    : Residency permits 2006 - 2015
 author      : Claus Gaarde Pedersen
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -16,9 +16,9 @@ ext_widgets : {rCharts: [libraries/nvd3]}
 
 
 
-In this presentation, we will look at how many people immigrate to Denmark.
+In this presentation, we will look at the immigration to Denmark.
 
-This will be done by looking at the number of people getting residency permits.
+This will be done by looking at the number of people receiving residency permits.
 
 Hopefully this can provide some basic information that will be usefull when trying to digest the medias attention to this subject.
 
@@ -31,7 +31,7 @@ Hopefully this can provide some basic information that will be usefull when tryi
 
 3. Links to the ressources used.
 
---- .class #id 
+--- 
 
 ## Number of residency permits by type
 
@@ -40,26 +40,26 @@ Hopefully this can provide some basic information that will be usefull when tryi
 ```r
 # Using the same csv as for the shiny part later.
 # the data is summed by residency permit type. look at shiny part for country details 
-resi <- resi %>% group_by(year, type) %>% summarize(permits=sum(n)) %>%
+resi <- resi %>% group_by(year, type) %>% summarize(permits=sum(permits)) %>%
     select(year, type, permits)
 ```
 
 
-<div id = 'chart11d845c847fd8' class = 'rChart nvd3'></div>
+<div id = 'chart3e643077750b' class = 'rChart nvd3'></div>
 <script type='text/javascript'>
  $(document).ready(function(){
-      drawchart11d845c847fd8()
+      drawchart3e643077750b()
     });
-    function drawchart11d845c847fd8(){  
+    function drawchart3e643077750b(){  
       var opts = {
- "dom": "chart11d845c847fd8",
+ "dom": "chart3e643077750b",
 "width":    800,
 "height":    400,
 "x": "year",
 "y": "permits",
 "group": "type",
 "type": "multiBarChart",
-"id": "chart11d845c847fd8" 
+"id": "chart3e643077750b" 
 },
         data = [
  {
@@ -416,21 +416,20 @@ resi <- resi %>% group_by(year, type) %>% summarize(permits=sum(n)) %>%
 
 ## Mapping of residency permits by country
 
-rworldmap picture
+Image from the [shiny app](https://khlavus.shinyapps.io/ImmigrationDK/) showing work permits in 2015
 
-link to shiny
+![width](rworldmap.png)
 
 ---
 
 ## Ressources
 
-Data downloaded from statistikbanken.dk
-
-http://www.statistikbanken.dk/statbank5a/default.asp?w=1280
+Data downloaded from [statistikbanken.dk](http://www.statistikbanken.dk/statbank5a/default.asp?w=1280)
 
 Search for statistic VAN66 english version
 
 The data is downloaded as matrix-csv and processed in R
 
-link to exploratory processing here github link
-where the whole source for the slidify and shiny parts also can be found
+Source code for [processing and shiny](https://github.com/clausgp/ddpshiny)
+
+Source code for [slidify](https://github.com/clausgp/ddpslidify) presentation
